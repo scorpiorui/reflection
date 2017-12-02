@@ -1,0 +1,6 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+My Answer: Comparing the two versions of a file can clearly find out the difference. If the old version works, but the latest one doesn't work. Then it is very obvious to see the difference to find out the bugs.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+My Answer: Having the easy access to the entire history of a file can make all the efforts no waste. You can check where the bugs come from and some good ideas. The history collects all the changes and the programmar can be efficient if using the history wisely.
+
