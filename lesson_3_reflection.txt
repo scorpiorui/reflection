@@ -1,0 +1,1 @@
+Try to add a new relection from github, and see what will happen to my local repository.
